@@ -144,11 +144,13 @@ int main() {
       &lt;3
     </div>
 
-    <div class="photos">
-      <img src="" />
-      <img src="" />
-      <img src="" />
-    </div>
+     <div class="photos">
+  <img src="https://i.imgur.com/RDV76GW.jpg" />
+  <img src="https://i.imgur.com/0kgAJh3.jpg" />
+  <img src="https://i.imgur.com/HekQ13g.jpg" />
+  <img src="https://i.imgur.com/nivKKIg.jpg" />
+  <img src="https://i.imgur.com/ljr0IJn.jpg" />
+</div>
   </div>
 
   <audio id="bgAudio" loop preload="auto" playsinline>
